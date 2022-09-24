@@ -1,4 +1,4 @@
-rsschьool-cv
+rsschool-cv
 ---
 **Liudmila Karpenka**
 > ___
@@ -32,7 +32,7 @@ ___
 >Psychologist, teacher of psychology.
 ---
 **Languages**
-Belarusian
-Rusian
-English B1
-Norwegian B1
+- Belarusian
+- Rusian
+- English B1
+- Norwegian B1
